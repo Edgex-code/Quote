@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "text": "\"Most CEOs I talk to say we're in a recession right now.\"",
+    "author": "Blackrock CEO, Larry Fink",
+    "preferredWeek": 1
+  },
+  {
+    "id": "2", 
+    "text": "\"The Fed will keep at it until the job is done.\"",
+    "author": "Federal Reserve Chair, Jerome Powell",
+    "preferredWeek": 2
+  }
+]
