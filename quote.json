@@ -11,4 +11,46 @@
     "author": "Federal Reserve Chair, Jerome Powell",
     "preferredWeek": 2
   }
+  {
+    "id": "3", 
+    "text": "\"Markets are trading as if we're going to have a soft landing. I'm not convinced.\"",
+    "author": "JPMorgan CEO, Jamie Dimon",
+    "preferredWeek": 3
+  }
+  {
+    "id": "4", 
+    "text": "\"The AI revolution is the most profound tech transformation in our lifetimes.\"",
+    "author": "NVIDIA CEO, Jensen Huang",
+    "preferredWeek": 4
+  }
+  {
+    "id": "5", 
+    "text": "\"Interest rates are the price of money. We're resetting the price of money from zero.\"",
+    "author": "BlackRock CIO, Rick Rieder",
+    "preferredWeek": 5
+  }
+  {
+    "id": "6", 
+    "text": "\"We're seeing a significant shift away from just-in-time to just-in-case supply chains.\"",
+    "author": "Maersk CEO, Vincent Clerc",
+    "preferredWeek": 6
+  }
+  {
+    "id": "7", 
+    "text": "\"In AI, we are in the first minute of the first day of the first inning.\"",
+    "author": "Coinbase CEO, Brian Armstrong",
+    "preferredWeek": 7
+  }
+  {
+    "id": "8", 
+    "text": "\"In AI, we are in the first minute of the first day of the first inning.\"",
+    "author": "Microsoft CEO, Satya Nadella,
+    "preferredWeek": 8
+  }
+  {
+    "id": "9", 
+    "text": "\"This is not just a cycle. What we are going through is a fundamental restructuring of the global economy.\"",
+    "author": "Tesla CEO, Elon Musk",
+    "preferredWeek": 9
+  }
 ]
