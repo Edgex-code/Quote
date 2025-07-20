@@ -53,4 +53,304 @@
     "author": "Tesla CEO, Elon Musk",
     "preferredWeek": 9
   }
+  {
+    "id": "10",
+    "text": "\"Resilience in the face of uncertainty is what defines long-term investors.\"",
+    "author": "Bridgewater Associates Co-CIO, Greg Jensen",
+    "preferredWeek": 10
+  },
+  {
+    "id": "11",
+    "text": "\"We’re witnessing a regime shift in inflation expectations across the globe.\"",
+    "author": "IMF Chief Economist, Pierre-Olivier Gourinchas",
+    "preferredWeek": 11
+  },
+  {
+    "id": "12",
+    "text": "\"The economy doesn’t pivot on headlines—it pivots on data and sentiment.\"",
+    "author": "Morgan Stanley Chief Economist, Seth Carpenter",
+    "preferredWeek": 12
+  },
+  {
+    "id": "13",
+    "text": "\"In every market correction lies the seed of the next rally.\"",
+    "author": "ARK Invest CEO, Cathie Wood",
+    "preferredWeek": 13
+  },
+  {
+    "id": "14",
+    "text": "\"You can’t fight the Fed, but you can prepare for its consequences.\"",
+    "author": "DoubleLine CEO, Jeffrey Gundlach",
+    "preferredWeek": 14
+  },
+  {
+    "id": "15",
+    "text": "\"Energy transition is not optional—it's inevitable.\"",
+    "author": "BP CEO, Murray Auchincloss",
+    "preferredWeek": 15
+  },
+  {
+    "id": "16",
+    "text": "\"Data is the new oil, but AI is the refinery.\"",
+    "author": "Salesforce CEO, Marc Benioff",
+    "preferredWeek": 16
+  },
+  {
+    "id": "17",
+    "text": "\"Rate cuts without disinflation are just wishful thinking.\"",
+    "author": "Former Treasury Secretary, Larry Summers",
+    "preferredWeek": 17
+  },
+  {
+    "id": "18",
+    "text": "\"We're building the infrastructure of tomorrow's internet today.\"",
+    "author": "Amazon CEO, Andy Jassy",
+    "preferredWeek": 18
+  },
+  {
+    "id": "19",
+    "text": "\"Economic cycles don't die of old age—they're murdered by policy mistakes.\"",
+    "author": "Economist, Mohamed El-Erian",
+    "preferredWeek": 19
+  },
+  {
+    "id": "20",
+    "text": "\"The next financial crisis won't come from where we're looking.\"",
+    "author": "Roubini Macro Associates CEO, Nouriel Roubini",
+    "preferredWeek": 20
+  },
+  {
+    "id": "21",
+    "text": "\"A digital currency revolution is already underway—central banks are just catching up.\"",
+    "author": "ECB President, Christine Lagarde",
+    "preferredWeek": 21
+  },
+  {
+    "id": "22",
+    "text": "\"You can't automate trust, but you can scale it with blockchain.\"",
+    "author": "Binance Founder, Changpeng Zhao",
+    "preferredWeek": 22
+  },
+  {
+    "id": "23",
+    "text": "\"Innovation thrives in volatility.\"",
+    "author": "Stripe CEO, Patrick Collison",
+    "preferredWeek": 23
+  },
+  {
+    "id": "24",
+    "text": "\"The future of money is programmable.\"",
+    "author": "Ethereum Co-founder, Vitalik Buterin",
+    "preferredWeek": 24
+  },
+  {
+    "id": "25",
+    "text": "\"If you're not investing in AI now, you're already behind.\"",
+    "author": "Alphabet CEO, Sundar Pichai",
+    "preferredWeek": 25
+  },
+  {
+    "id": "26",
+    "text": "\"We're in a transition from capital-intensive to knowledge-intensive economies.\"",
+    "author": "World Bank President, Ajay Banga",
+    "preferredWeek": 26
+  },
+  {
+    "id": "27",
+    "text": "\"Financial literacy is national security in the 21st century.\"",
+    "author": "Fintech Entrepreneur, Sallie Krawcheck",
+    "preferredWeek": 27
+  },
+  {
+    "id": "28",
+    "text": "\"In investing, your temperament matters more than your intellect.\"",
+    "author": "Legendary Investor, Warren Buffett",
+    "preferredWeek": 28
+  },
+  {
+    "id": "29",
+    "text": "\"A slowdown is not a setback—it's an opportunity to reposition.\"",
+    "author": "Goldman Sachs CIO, Sharmin Mossavar-Rahmani",
+    "preferredWeek": 29
+  },
+  {
+    "id": "30",
+    "text": "\"Debt is a tool, not a solution.\"",
+    "author": "Ray Dalio, Bridgewater Founder",
+    "preferredWeek": 30
+  },
+  {
+    "id": "31",
+    "text": "\"The economic engine is recalibrating, not stalling.\"",
+    "author": "OECD Secretary-General, Mathias Cormann",
+    "preferredWeek": 31
+  },
+  {
+    "id": "32",
+    "text": "\"If you don't digitise, you'll disappear.\"",
+    "author": "HSBC Group CEO, Noel Quinn",
+    "preferredWeek": 32
+  },
+  {
+    "id": "33",
+    "text": "\"The currency of leadership is credibility.\"",
+    "author": "Starbucks CEO, Laxman Narasimhan",
+    "preferredWeek": 33
+  },
+  {
+    "id": "34",
+    "text": "\"We're entering the decade of decentralisation.\"",
+    "author": "Andreessen Horowitz Partner, Chris Dixon",
+    "preferredWeek": 34
+  },
+  {
+    "id": "35",
+    "text": "\"Technology doesn’t just disrupt markets—it reshapes societies.\"",
+    "author": "Alibaba Founder, Jack Ma",
+    "preferredWeek": 35
+  },
+  {
+    "id": "36",
+    "text": "\"Sustainability isn’t a cost—it’s an investment.\"",
+    "author": "Unilever CEO, Hein Schumacher",
+    "preferredWeek": 36
+  },
+  {
+    "id": "37",
+    "text": "\"Revolutions don’t announce themselves—they’re built over time.\"",
+    "author": "Tesla & SpaceX CEO, Elon Musk",
+    "preferredWeek": 37
+  },
+  {
+    "id": "38",
+    "text": "\"There's no such thing as a free market lunch.\"",
+    "author": "Nobel Laureate Economist, Paul Krugman",
+    "preferredWeek": 38
+  },
+  {
+    "id": "39",
+    "text": "\"Banking is becoming a tech business, whether we like it or not.\"",
+    "author": "JPMorgan CTO, Lori Beer",
+    "preferredWeek": 39
+  },
+  {
+    "id": "40",
+    "text": "\"A tech-enabled economy is a resilient economy.\"",
+    "author": "Cisco CEO, Chuck Robbins",
+    "preferredWeek": 40
+  },
+  {
+    "id": "41",
+    "text": "\"AI won't replace humans, but humans using AI will replace those who don't.\"",
+    "author": "PwC Global Chairman, Bob Moritz",
+    "preferredWeek": 41
+  },
+  {
+    "id": "42",
+    "text": "\"Every crisis reveals the fragility of what we assumed was strong.\"",
+    "author": "Economist, Stephanie Kelton",
+    "preferredWeek": 42
+  },
+  {
+    "id": "43",
+    "text": "\"Capital chases clarity, not hype.\"",
+    "author": "Sequoia Capital Partner, Roelof Botha",
+    "preferredWeek": 43
+  },
+  {
+    "id": "44",
+    "text": "\"Deflation is a bigger long-term threat than inflation.\"",
+    "author": "ARK Invest Analyst, Brett Winton",
+    "preferredWeek": 44
+  },
+  {
+    "id": "45",
+    "text": "\"Geopolitics is the new market risk premium.\"",
+    "author": "BlackRock Vice Chairman, Philipp Hildebrand",
+    "preferredWeek": 45
+  },
+  {
+    "id": "46",
+    "text": "\"The cost of inaction on climate change will eclipse any fiscal deficit.\"",
+    "author": "Climate Economist, Nicholas Stern",
+    "preferredWeek": 46
+  },
+  {
+    "id": "47",
+    "text": "\"Markets hate uncertainty more than bad news.\"",
+    "author": "Bloomberg Chief Economist, Tom Orlik",
+    "preferredWeek": 47
+  },
+  {
+    "id": "48",
+    "text": "\"Regulation lags innovation by a generation.\"",
+    "author": "Ripple CEO, Brad Garlinghouse",
+    "preferredWeek": 48
+  },
+  {
+    "id": "49",
+    "text": "\"Productivity gains are the only real path to sustainable growth.\"",
+    "author": "Fed Vice Chair, Philip Jefferson",
+    "preferredWeek": 49
+  },
+  {
+    "id": "50",
+    "text": "\"We're not just rebuilding infrastructure—we're redesigning it for the future.\"",
+    "author": "US Secretary of Transportation, Pete Buttigieg",
+    "preferredWeek": 50
+  },
+  {
+    "id": "51",
+    "text": "\"A 21st-century economy demands 21st-century skills.\"",
+    "author": "LinkedIn CEO, Ryan Roslansky",
+    "preferredWeek": 51
+  },
+  {
+    "id": "52",
+    "text": "\"Private capital is stepping in where public trust is fading.\"",
+    "author": "KKR Co-CEO, Joseph Bae",
+    "preferredWeek": 52
+  },
+  {
+    "id": "53",
+    "text": "\"Monetary policy is no longer enough on its own.\"",
+    "author": "BIS General Manager, Agustín Carstens",
+    "preferredWeek": 53
+  },
+  {
+    "id": "54",
+    "text": "\"The next unicorns will be climate-tech companies.\"",
+    "author": "VC Investor, Chamath Palihapitiya",
+    "preferredWeek": 54
+  },
+  {
+    "id": "55",
+    "text": "\"Capital flows to where it feels safest, not always where it's needed most.\"",
+    "author": "Nobel Laureate, Abhijit Banerjee",
+    "preferredWeek": 55
+  },
+  {
+    "id": "56",
+    "text": "\"Wealth creation in the 2020s will be powered by code.\"",
+    "author": "GitHub CEO, Thomas Dohmke",
+    "preferredWeek": 56
+  },
+  {
+    "id": "57",
+    "text": "\"Digital identity is the cornerstone of a global economy.\"",
+    "author": "Mastercard CEO, Michael Miebach",
+    "preferredWeek": 57
+  },
+  {
+    "id": "58",
+    "text": "\"Nothing compounds like trust.\"",
+    "author": "Andreessen Horowitz GP, Angela Strange",
+    "preferredWeek": 58
+  },
+  {
+    "id": "59",
+    "text": "\"We're entering the era of precision economics.\"",
+    "author": "MIT Economist, Daron Acemoglu",
+    "preferredWeek": 59
+  }
 ]
